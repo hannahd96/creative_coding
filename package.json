@@ -1,0 +1,17 @@
+{
+  "name": "y4-creativecoding-ca1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "part_one.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "nodemon part_three.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
